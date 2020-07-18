@@ -2,7 +2,7 @@
 
 Task: To build an image recognition model which is capable of identifying the pattern on a dress image.
 
-Predicts The dress pattern and suggests similar pattern dress images. Usefull in ecommerce websites to suggest customer similar dresses.
+Predicts The dress pattern and suggests similar pattern dress images. Useful in e-commerce websites to suggest customer similar dresses based on their preferences.
 
 Total number of dress pattern available in dataset are 17: 
 
